@@ -3,6 +3,7 @@
 
 """
 Demo of the basic functionality - just getting pairwise/n-wise combinations
+正交
 """
 
 from __future__ import print_function
